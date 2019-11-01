@@ -9,4 +9,4 @@ Articles/Papers published or presented related to MC2SC project
 
 - A. Yıldız, D. İskender, G. Özlü, H. F. Ugurdag, B. Aktemur, and S. Gören, "Software UART: A Use Case for VSCPU Worst-Case Execution Time Analyzer", 2018 3rd International Conference on Computer Science and Engineering (UBMK), Samsun, 2019. ([pdf](doc/UBMK_19.pdf))
 
-- Abdullah Yıldız, Tugay Emre Yucedag, H. Fatih Ugurdag and Sezer Gören, "VSCPU ile Eğitsel Açıdan İşlemci Komut Kümesinin Öneminin Ele Alınması", İşlemci Tasarımı Çalıştayı, İstanbul, 2019. ([pdf](doc/ITC_2019.pdf))
+- Abdullah Yıldız, Tugay Emre Yucedag, H. Fatih Ugurdag and Sezer Gören, "VSCPU ile Eğitsel Açıdan İşlemci Komut Kümesinin Öneminin Ele Alınması", İşlemci Tasarımı Çalıştayı, İstanbul, 2019. ([pdf](doc/ITC_19.pdf))
