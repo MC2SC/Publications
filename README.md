@@ -13,4 +13,4 @@ Articles/Papers published or presented related to MC2SC project
   
   URL: https://ieeexplore.ieee.org/document/8907220
 
-- Abdullah Yıldız, Tugay Emre Yucedag, H. Fatih Ugurdag and Sezer Gören, "VSCPU ile Eğitsel Açıdan İşlemci Komut Kümesinin Öneminin Ele Alınması", İşlemci Tasarımı Çalıştayı, İstanbul, 2019. ([pdf](doc/ITC_19.pdf))
+- (Unpublished, non-indexed) Abdullah Yıldız, Tugay Emre Yucedag, H. Fatih Ugurdag and Sezer Gören, "VSCPU ile Eğitsel Açıdan İşlemci Komut Kümesinin Öneminin Ele Alınması", İşlemci Tasarımı Çalıştayı, İstanbul, 2019. ([pdf](doc/ITC_19.pdf))
