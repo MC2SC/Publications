@@ -1,13 +1,13 @@
 # Publications
 Articles/Papers published or presented related to MC2SC project
 
-- A. Yıldız, H. F. Ugurdag, B. Aktemur, D. İskender and S. Gören, "CPU design simplified", 2018 3rd International Conference on Computer Science and Engineering (UBMK), Sarajevo, 2018, pp. 630-632. ([pdf](doc/08566475.pdf))
+- A. Yıldız, H. F. Ugurdag, B. Aktemur, D. İskender and S. Gören, "CPU design simplified", 3rd International Conference on Computer Science and Engineering (UBMK), Sarajevo, 2018, pp. 630-632. ([pdf](doc/08566475.pdf))
 
   DOI: 10.1109/UBMK.2018.8566475
   
   URL: https://ieeexplore.ieee.org/document/8566475
 
-- A. Yıldız, D. İskender, G. Özlü, H. F. Ugurdag, B. Aktemur, and S. Gören, "Software UART: A Use Case for VSCPU Worst-Case Execution Time Analyzer", 2018 3rd International Conference on Computer Science and Engineering (UBMK), Samsun, 2019. ([pdf](doc/UBMK_19.pdf))
+- A. Yıldız, D. İskender, G. Özlü, H. F. Ugurdag, B. Aktemur, and S. Gören, "Software UART: A Use Case for VSCPU Worst-Case Execution Time Analyzer", 4th International Conference on Computer Science and Engineering (UBMK), Samsun, 2019. ([pdf](doc/UBMK_19.pdf))
 
   DOI: 10.1109/UBMK.2019.8907220
   
